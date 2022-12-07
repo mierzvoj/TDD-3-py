@@ -1,6 +1,6 @@
 def roman(value):
     roman_map = {
-        1: "I",
+        1: "I", 4: "IV",
     }
     result = ""
     remainder = value
